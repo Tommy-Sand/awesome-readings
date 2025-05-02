@@ -1,0 +1,8 @@
+
+@article{bonwick_magazines_nodate,
+	title = {Magazines and Vmem: Extending the Slab Allocator to Many {CPUs} and Arbitrary Resources},
+	abstract = {The slab allocator [Bonwick94] provides efficient object caching but has two significant limitations: its global locking doesn’t scale to many {CPUs}, and the allocator can’t manage resources other than kernel memory. To provide scalability we introduce a per−processor caching scheme called the magazine layer that provides linear scaling to any number of {CPUs}. To support more general resource allocation we introduce a new virtual memory allocator, vmem, which acts as a universal backing store for the slab allocator. Vmem is a complete general−purpose resource allocator in its own right, providing several important new services; it also appears to be the first resource allocator that can satisfy arbitrary−size allocations in constant time. Magazines and vmem have yielded performance gains exceeding 50\% on system−level benchmarks like {LADDIS} and {SPECweb}99.},
+	author = {Bonwick, Jeff and Microsystems, Sun and Adams, Jonathan},
+	langid = {english},
+	file = {PDF:/home/stormblessed/Zotero/storage/CL3JMCU2/Bonwick et al. - Magazines and Vmem Extending the Slab Allocator to Many CPUs and Arbitrary Resources.pdf:application/pdf},
+}

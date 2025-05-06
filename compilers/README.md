@@ -14,6 +14,7 @@ As we gain more resources we can expand that list.
 
 ## Additional Reading Lists
 - [CDOL Reading List](https://jnamaral.github.io/CDOL/) - J. Nelson Amaral's Lab reading list, covers a number of topics ranging from classic optimization passes to code placement optimization to code analysis and working with that information.
+- [Compiler language books](https://github.com/rambhawan/Computer-Compiler-Lang/tree/master) - A collection of more books to complete your understanding not only of compilers, but of the fundamental logical structures that underpin them.
 
 ## Books
 - [Crafting Interpreters](https://github.com/munificent/craftinginterpreters) - An excellent introduction to the design of computer languages, part 1 crafts an interpreter from scratch and part 2 a compiler. Highly encourage this as your starting point.
